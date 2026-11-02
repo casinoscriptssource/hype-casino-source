@@ -42,9 +42,7 @@ React · TypeScript · REST API · WebSocket · MySQL / PostgreSQL · Docker
 - Setup documentation and technical support
 - Game API access, with no separate purchase needed
 
-## Pricing
-
-**$999.99 one-time payment** for a full platform license. Purchases are protected by Escrow.com.
+## Get it here
 
 **[Get the platform](https://buycasino.co/casino-platform/)** · **[Admin panel demo](https://demo.buycasino.co/admin-demo/)** · **[Contact our team](https://buycasino.co/contact/)**
 
