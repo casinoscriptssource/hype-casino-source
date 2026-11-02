@@ -5,6 +5,8 @@
 
 A complete online casino with seven original games, player wallets, rewards, live chat, affiliates and full operator controls. Sold as a one-time license with the full frontend and backend source code.
 
+[![Watch the video](https://img.youtube.com/vi/HlI7OWxeIQY/maxresdefault.jpg)](https://www.youtube.com/watch?v=HlI7OWxeIQY)
+
 ## Key Features
 
 ### Original Games
